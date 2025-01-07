@@ -1,4 +1,4 @@
-package com.taskmanagement.repositories;
+package com.task.repositories;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
